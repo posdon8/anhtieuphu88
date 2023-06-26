@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ă.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ă1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ă2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-accepted-icon-flat-style-correct-vector-illustration-white-isolated-background-check-message-business-concept-163451108.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ă3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picâ.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
